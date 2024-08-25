@@ -64,6 +64,5 @@ public class ProducerDemoWithKey {
 
         // flush and close the producer
         producer.close();
-
     }
 }
